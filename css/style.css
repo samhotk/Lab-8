@@ -6,7 +6,6 @@ nav {
   background-color: blue;
   overflow: hidden; 
   width: fit-content;
-  /*list-style-type: none;*/
   margin: 0 auto;
   padding: 0;
   text-align: center;
@@ -31,7 +30,6 @@ nav ul li a {
   text-decoration: none;
   background-color: #000;
 }
-
 
 nav li {
   float: left;
